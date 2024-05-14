@@ -13,10 +13,13 @@
     "@near-wallet-selector/core": "^8.9.7",
     "@near-wallet-selector/modal-ui": "^8.9.7",
     "@near-wallet-selector/my-near-wallet": "^8.9.7",
+    "buffer": "^6.0.3",
     "my-react-app": "link:",
     "near-api-js": "2.1.4",
+    "process": "^0.11.10",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "rxjs": "^7.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
