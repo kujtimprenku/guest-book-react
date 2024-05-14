@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@near-wallet-selector/core": "^8.9.7",
+    "@near-wallet-selector/modal-ui": "^8.9.7",
+    "@near-wallet-selector/my-near-wallet": "^8.9.7",
     "my-react-app": "link:",
+    "near-api-js": "2.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
