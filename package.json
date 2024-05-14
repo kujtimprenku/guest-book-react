@@ -13,6 +13,8 @@
     "@near-wallet-selector/core": "^8.9.7",
     "@near-wallet-selector/modal-ui": "^8.9.7",
     "@near-wallet-selector/my-near-wallet": "^8.9.7",
+    "@types/bn.js": "^5.1.5",
+    "bn.js": "^5.2.1",
     "buffer": "^6.0.3",
     "my-react-app": "link:",
     "near-api-js": "2.1.4",

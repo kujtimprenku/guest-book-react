@@ -8,10 +8,10 @@ export default defineConfig({
     global: "globalThis",
     "process.env": {},
   },
-  build: {
-    commonjsOptions: { include: [] },
-  },
-  optimizeDeps: {
-    disabled: false,
-  },
+  // build: {
+  //   commonjsOptions: { include: [] },
+  // },
+  // optimizeDeps: {
+  //   disabled: false,
+  // },
 });
